@@ -2,12 +2,11 @@
 
 > :arrow_left: Click-less denying of cookies!
 
-Stop interrupting me to ask the same question over and over! NOOOO I don't want toto give my data away!
-
+Stop interrupting me to ask the same question over and over!
+NOOOO I don't want to give my data away!
 
 * Free software: MIT
 * Documentation: https://cookit.readthedocs.io.
-
 
 ## Table of Contents
 
@@ -18,8 +17,7 @@ Stop interrupting me to ask the same question over and over! NOOOO I don't want 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Development](#development)
-  - [Future](#future)
-  - [History](#history)
+  - [TODO](#todo)
   - [Community](#community)
 - [Credits](#credits)
 - [License](#license)
@@ -45,21 +43,18 @@ Stop interrupting me to ask the same question over and over! NOOOO I don't want 
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
-### Future
+### TODO
 
-See [ROADMAP](ROADMAP.md)
-
-### History
-
-See [CHANGELOG](CHANGELOG.md)
+[ ] diff yes / no
+[ ] value formats (regex?)
+[ ] forge cookies
+[ ] what happens when browsing without all the cookies? Do popups appear?
 
 ### Community
 
 See [CODE OF CONDUCT](CODE_OF_CONDUCT.md)
 
 ## Credits
-
-See [AUTHORS](AUTHORS.md)
 
 This project was initially created with [Cookiecutter][cookiecutter] and the custom [cookiecutter-git][cookiecutter-git] :cookie:
 
