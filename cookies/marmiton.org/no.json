@@ -1,0 +1,30 @@
+[
+{
+    "domain": ".marmiton.org",
+    "expirationDate": 1650786322,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "didomi_token",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": false,
+    "session": false,
+    "storeId": "1",
+    "value": "eyJ1c2VyX2lkIjoiMTc4ZmRiMDgtZTI4OC02OTEwLWJjNjUtNjg2YzQxOWFmZTJkIiwiY3JlYXRlZCI6IjIwMjEtMDQtMjNUMDc6NDU6MjIuNTY2WiIsInVwZGF0ZWQiOiIyMDIxLTA0LTIzVDA3OjQ1OjIyLjU2NloiLCJ2ZW5kb3JzIjp7ImRpc2FibGVkIjpbImdvb2dsZSIsImM6aW5zdGFncmFtLUg5d0RnY0U0IiwiYzppbnRlcm1hcmNoLU5hcnlCd1VaIiwiYzpnb29nbGVvcHQtQlp0QUQzVzUiLCJjOm1hcm1pdG9uLTZ5bkVxYnRYIiwiYzpiYXRjaC1DVnpMY2t5UyIsImM6bmVzdGxlLVBrWUhtcGRVIiwiYzpwZXJtdXRpdmUtTXN4cVd0OEoiLCJjOnBpbnRlcmVzdC1XYWU2Z3lIUyIsImM6dHdpdHRlci16SjU3Zm1tWiIsImM6aGVhdG1hcCIsImM6ZmFjZWJvb2stSFVEcUdRZ2QiLCJjOnRmMS1GcG1OQTdIOCIsImM6NHctbWFya2V0cGxhY2UiLCJjOmFkbG9vcC1YRjYzUTQ3RiIsImM6Zmx5bWVudS02N2hUeWZiNyIsImM6cXVhbGlmaW8tNkZiS0FaUkwiLCJjOmdvb2dsZWFuYS1hekNocmtSYiJdfSwicHVycG9zZXMiOnsiZGlzYWJsZWQiOlsiZGV2aWNlX2NoYXJhY3RlcmlzdGljcyIsImdlb2xvY2F0aW9uX2RhdGEiLCJNZXN1cmVhdWRpZW5jZSIsInJlc2VhdXhzb2NpYXV4IiwiRm9uY3Rpb25uYWxpdGVhbWVsaW9yYXRpb24iXX0sInZlbmRvcnNfbGkiOnsiZW5hYmxlZCI6WyJnb29nbGUiXX0sInZlcnNpb24iOjIsImFjIjoiQUFBQS5CXzZBQ0JfNCJ9",
+    "id": 1
+},
+{
+    "domain": ".marmiton.org",
+    "expirationDate": 1650786322,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "euconsent-v2",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": false,
+    "session": false,
+    "storeId": "1",
+    "value": "CPFGM66PFGM66AHABBENBWCgAAAAAAAAAAAAAAANZABMFSYAATEsMCSaFIoUQAQiAAqAUAFEAECANAAAgAAQQgEIIAAAAEAAAAAAAAARAQCAAQCAACAAAADwQAAAgAAAAAAAAAQAEQAAIAAAAAAAAAEAwAAAAEAAAAIAAoBAgAAAAAEgAAAAAAADAAAA.YAAAAAAAAAAA",
+    "id": 2
+}
+]

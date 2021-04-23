@@ -1,0 +1,30 @@
+[
+{
+    "domain": ".youtube.com",
+    "expirationDate": 2145916802.042785,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "CONSENT",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "1",
+    "value": "PENDING+710",
+    "id": 1
+},
+{
+    "domain": "consent.youtube.com",
+    "expirationDate": 1621578693,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "OTZ",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "session": false,
+    "storeId": "1",
+    "value": "5944712_48_52_123900_48_436380",
+    "id": 2
+}
+]

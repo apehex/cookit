@@ -1,0 +1,16 @@
+[
+{
+    "domain": ".marmiton.org",
+    "expirationDate": 1650786237,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "didomi_token",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": false,
+    "session": false,
+    "storeId": "1",
+    "value": "eyJ1c2VyX2lkIjoiMTc4ZmRhZjctNThhZS02MzA1LTg3ZjQtZDA5ZTkzZTM5ODVjIiwiY3JlYXRlZCI6IjIwMjEtMDQtMjNUMDc6NDM6NTcuODgyWiIsInVwZGF0ZWQiOiIyMDIxLTA0LTIzVDA3OjQzOjU3Ljg4MloiLCJ2ZXJzaW9uIjpudWxsfQ==",
+    "id": 1
+}
+]

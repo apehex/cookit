@@ -1,0 +1,44 @@
+[
+{
+    "domain": ".free.fr",
+    "expirationDate": 1650612770,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "didomi_token",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": false,
+    "session": false,
+    "storeId": "1",
+    "value": "eyJ1c2VyX2lkIjoiMTc4ZjM1ODgtZmU4MS02ZGU1LTliNTMtMGY5ZjAzMzc4MGYyIiwiY3JlYXRlZCI6IjIwMjEtMDQtMjFUMDc6MzI6NTAuODQ1WiIsInVwZGF0ZWQiOiIyMDIxLTA0LTIxVDA3OjMyOjUwLjg0NVoiLCJ2ZXJzaW9uIjpudWxsfQ==",
+    "id": 1
+},
+{
+    "domain": "www.free.fr",
+    "expirationDate": 1652945570,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "_pk_id.2.f75b",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": false,
+    "session": false,
+    "storeId": "1",
+    "value": "7c23fcb0d0b2102f.1618990370.1.1618990535.1618990370.",
+    "id": 2
+},
+{
+    "domain": "www.free.fr",
+    "expirationDate": 1618992335,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "_pk_ses.2.f75b",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": false,
+    "session": false,
+    "storeId": "1",
+    "value": "1",
+    "id": 3
+}
+]

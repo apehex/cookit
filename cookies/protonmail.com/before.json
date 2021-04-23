@@ -1,0 +1,30 @@
+[
+{
+    "domain": ".protonmail.com",
+    "expirationDate": 1626767641.805162,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "Session-Id",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "session": false,
+    "storeId": "1",
+    "value": "YH-aFqc4tiTW@d-vn5ktAwAAAMY",
+    "id": 1
+},
+{
+    "domain": "mail.protonmail.com",
+    "expirationDate": 1626767641.805206,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "Version",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "session": false,
+    "storeId": "1",
+    "value": "default",
+    "id": 2
+}
+]

@@ -1,0 +1,72 @@
+[
+{
+    "domain": ".google.com",
+    "expirationDate": 1621752505.558867,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "1P_JAR",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": "1",
+    "value": "2021-04-23-06",
+    "id": 1
+},
+{
+    "domain": ".google.com",
+    "expirationDate": 1634712466.949102,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "CGIC",
+    "path": "/search",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "1",
+    "value": "EhQxQzFDSEJGX2ZyRlI4NzlGUjg4MCKHAXRleHQvaHRtbCxhcHBsaWNhdGlvbi94aHRtbCt4bWwsYXBwbGljYXRpb24veG1sO3E9MC45LGltYWdlL2F2aWYsaW1hZ2Uvd2VicCxpbWFnZS9hcG5nLCovKjtxPTAuOCxhcHBsaWNhdGlvbi9zaWduZWQtZXhjaGFuZ2U7dj1iMztxPTAuOQ",
+    "id": 2
+},
+{
+    "domain": ".google.com",
+    "expirationDate": 2146723201.590002,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "CONSENT",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": "1",
+    "value": "YES+srp.gws-20210419-0-RC1.fr+FX+825",
+    "id": 3
+},
+{
+    "domain": ".google.com",
+    "expirationDate": 1634971705.290119,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "NID",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": "1",
+    "value": "214=TpD453vaa5rWZrGvRvIE33UsaVId_ykqllR2aUCjnRXp872UfgukwuVvxHie0IcoUxRxDyxmeF4Q4uwDVornSfOVWZo0cL-X8ExPPkn0v4zN8q97ryotk_0MuTiX3ZTAJGrkiEQXQxa1-nvYn81GffoymLJPvFlJtlAmvTH9u1w",
+    "id": 4
+},
+{
+    "domain": "www.google.com",
+    "expirationDate": 1619161105,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "DV",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "1",
+    "value": "44tcA-4PI6wp0GqmrTHFtcZY1r_Xj5eFIki-vVDZHgEAAAA",
+    "id": 5
+}
+]
