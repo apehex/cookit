@@ -1,3 +1,7 @@
+13 __cfduid
+11 _gid
+11 _ga
+10 euconsent-v2
 6 CONSENT
 6 CLEARED
 5 _pbjs_userid_consent_data
@@ -127,7 +131,3 @@
 1 cli_user_preference
 1 ANID
 1 af_session
-13 __cfduid
-11 _gid
-11 _ga
-10 euconsent-v2
