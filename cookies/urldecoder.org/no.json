@@ -1,0 +1,44 @@
+[
+{
+    "domain": ".urldecoder.org",
+    "expirationDate": 1621787915.002598,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "__cfduid",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": false,
+    "session": false,
+    "storeId": "1",
+    "value": "d59de888032bc7e9b8e36a8084bc4ed041619195913",
+    "id": 1
+},
+{
+    "domain": ".www.urldecoder.org",
+    "expirationDate": 1652891951.336792,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "euconsent-v2",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": false,
+    "storeId": "1",
+    "value": "CPFHbB1PFHbB1AKAcBENBXCgAAAAAH_AAA6gAAAPdAJMNS-ACzEscGSaNKoUQIQrCQ6AUAFFCMLRNYQMrgp2VwEeoIGACE1ARgRAgxBRiwCAAQCAJCIgJADwQCIAiAQAAgBUgIQAETAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignsrAEou9jTCEMosAKBR_RUYCJQggWBkJAA.YAAAAAAAAAAA",
+    "id": 2
+},
+{
+    "domain": "www.urldecoder.org",
+    "expirationDate": 1650731915,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "CLEARED",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "1",
+    "value": "1619195915207",
+    "id": 3
+}
+]

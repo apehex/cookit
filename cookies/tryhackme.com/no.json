@@ -1,0 +1,57 @@
+[
+{
+    "domain": ".tryhackme.com",
+    "expirationDate": 1621947901.90656,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "__cfduid",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": false,
+    "storeId": "1",
+    "value": "ddd948aea89b9822a7c11cda043bc155c1619355901",
+    "id": 1
+},
+{
+    "domain": "tryhackme.com",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "_csrf",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": true,
+    "storeId": "1",
+    "value": "kjSs1V3t41AcIqoICRwuY3q7",
+    "id": 2
+},
+{
+    "domain": "tryhackme.com",
+    "expirationDate": 1619960777.12573,
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "connect.sid",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "1",
+    "value": "s%3A_NoAxeQ-bVAj6zdrClI1_utb4wxNTw3o.posx01CQL2inDsW7SGs7%2FNdqL7XqXsUWY2MPGTIR9qk",
+    "id": 3
+},
+{
+    "domain": "tryhackme.com",
+    "expirationDate": 1650891950,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "cookieconsent_status",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "1",
+    "value": "dismiss",
+    "id": 4
+}
+]

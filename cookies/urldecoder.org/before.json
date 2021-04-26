@@ -1,0 +1,30 @@
+[
+{
+    "domain": ".urldecoder.org",
+    "expirationDate": 1621787915.002598,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "__cfduid",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": false,
+    "session": false,
+    "storeId": "1",
+    "value": "d59de888032bc7e9b8e36a8084bc4ed041619195913",
+    "id": 1
+},
+{
+    "domain": "www.urldecoder.org",
+    "expirationDate": 1650731915,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "CLEARED",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "1",
+    "value": "1619195915207",
+    "id": 2
+}
+]

@@ -1,0 +1,57 @@
+[
+{
+    "domain": "www.catan.com",
+    "expirationDate": 1653329406,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "_pk_id.1.6361",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "654ea8d26c0299ec.1619374206.1.1619374206.1619374206.",
+    "id": 1
+},
+{
+    "domain": "www.catan.com",
+    "expirationDate": 1619376006,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "_pk_ses.1.6361",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "1",
+    "id": 2
+},
+{
+    "domain": "www.catan.com",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "has_js",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "1",
+    "id": 3
+},
+{
+    "domain": "www.catan.com",
+    "expirationDate": 1650910207,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "navi_animation",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "seen",
+    "id": 4
+}
+]

@@ -1,0 +1,56 @@
+[
+{
+    "domain": ".github.com",
+    "expirationDate": 1650786919.625458,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "_octo",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": false,
+    "storeId": "1",
+    "value": "GH1.1.937727089.1619250916",
+    "id": 1
+},
+{
+    "domain": ".github.com",
+    "expirationDate": 1650786919.625535,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "logged_in",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": false,
+    "storeId": "1",
+    "value": "no",
+    "id": 2
+},
+{
+    "domain": ".github.com",
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "tz",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": true,
+    "storeId": "1",
+    "value": "Europe%2FParis",
+    "id": 3
+},
+{
+    "domain": "github.com",
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "_gh_sess",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": true,
+    "storeId": "1",
+    "value": "TXDQbyZIumAeAYdjlkEaAs0RP6evQ%2BZFjJpgZKgio%2Fclck%2FoM3Dikx5JIvUm9vFXBldJkOLiVeXZLhArHS0fy2RiK8c%2BNmQKRTgIUvtb2WB%2FVtCN8CmLwO7wBBnvjBUn5VrzU%2BNHW4vg5YkXt0AylMWXTTqPZcRWhy9%2Ffjv7HDEBxM42nQBWqpkqcNghaVBdOuwR1P%2B4kZQVSSHb%2FcX%2BZseLZWYGVXbDllcXNod26eoZQGJfzrlEJjY5bW%2BU2cZv70VswpeYvfYKF%2F%2BHPHERfw%3D%3D--FPGT7OFSaHddy3HZ--zZUi0o%2FyTQMleRhieFT%2FvA%3D%3D",
+    "id": 4
+}
+]
