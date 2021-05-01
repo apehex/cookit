@@ -1,0 +1,44 @@
+[
+{
+    "domain": ".allaboutcookies.org",
+    "expirationDate": 1619589401.691782,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "__cf_bm",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": "1",
+    "value": "83d3428959e78a95de1db415646da889786d7576-1619587600-1800-AV6YnxHI6dg3O2IMfLQNmdfnWYYpH4r+YKKBzmZ1s3tt0zj6SJUrzUt1DFKzuSW6DgyhY3Ej4OXYevbKbrVfLpljn4VE+DTvIoEfaJskEiJPKAjqliEFn34IBzgrHeF4mDrbIOEjxm9GIKrn3hL768xarzZDVjXfa8Pg54/9T5uj",
+    "id": 1
+},
+{
+    "domain": ".allaboutcookies.org",
+    "expirationDate": 1622179600.456701,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "__cfduid",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": false,
+    "storeId": "1",
+    "value": "d8f94fdf57c673dd8b8e27394510e0f261619587598",
+    "id": 2
+},
+{
+    "domain": "www.allaboutcookies.org",
+    "expirationDate": 1622179663,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "CookieScriptConsent",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "session": false,
+    "storeId": "1",
+    "value": "{\"firstpage\":\"https://www.allaboutcookies.org/\",\"action\":\"accept\",\"categories\":\"[]\",\"key\":\"01f177c0-40fd-4d57-978b-2c98f95a6599\"}",
+    "id": 3
+}
+]

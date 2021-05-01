@@ -1,0 +1,29 @@
+[
+{
+    "domain": "veritascard.com",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "veritas_card_session",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": true,
+    "storeId": "1",
+    "value": "eyJpdiI6Ik1XRDkzaExFU1EwNHh3ZGtDd1VEMlE9PSIsInZhbHVlIjoiSUt3ZXBHRTFMNGFSWHZ6NGM3cGluZ05ra0k2MUVUaXZZTG0xSXdOclRcL3BDOG9iK1pmT1NiVVpIb1BsbDVFU1EiLCJtYWMiOiJiMmM3N2JkNDRlNjA0MTY1NGNjNDhmM2FmYjA2OGFiMTQxOTE0MTM2YjVmNTdlNTkwYTFjNGNmMjQ3NDkxNTdlIn0%3D",
+    "id": 1
+},
+{
+    "domain": "veritascard.com",
+    "expirationDate": 1619950600.472679,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "XSRF-TOKEN",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "1",
+    "value": "eyJpdiI6ImEySzUxQWJGWTFCYkIwWDdQOUFZUmc9PSIsInZhbHVlIjoiZDk0bFwveExrZndQdjJzYm40MmVDaXVGRDRMRzdmUkVXcDVIbUN2ZkxHNXNodzJ2TUJER3VySDd5NjdhMEhEMUgiLCJtYWMiOiJkM2M2ZDNlOTgwMTNlNjE2NDUwNzFlZmU4Nzk1MTU5NGNmZTZlMjlhZmNmM2QyMmFlZDBhMWUwZTM2MjcxYjYwIn0%3D",
+    "id": 2
+}
+]

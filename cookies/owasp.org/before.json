@@ -1,0 +1,16 @@
+[
+{
+    "domain": ".owasp.org",
+    "expirationDate": 1622111063.409431,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "__cfduid",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": false,
+    "storeId": "1",
+    "value": "d4c79210a24c15efd6ebfa36b5f574bbc1619519062",
+    "id": 1
+}
+]

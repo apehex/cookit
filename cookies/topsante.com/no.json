@@ -1,0 +1,30 @@
+[
+{
+    "domain": ".topsante.com",
+    "expirationDate": 1651431117,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "didomi_token",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "eyJ1c2VyX2lkIjoiMTc5MjQxZTctZDA2Zi02OGNiLWE4NTItYzgwNjgzYjE5M2Q5IiwiY3JlYXRlZCI6IjIwMjEtMDQtMzBUMTg6NTE6NTcuODYwWiIsInVwZGF0ZWQiOiIyMDIxLTA0LTMwVDE4OjUxOjU3Ljg2MFoiLCJ2ZW5kb3JzIjp7ImRpc2FibGVkIjpbImM6YWRvdG1vYiIsImFtYXpvbiIsImdvb2dsZSIsImM6cXVhbnR1bS1hZHZlcnRpc2luZyJdfSwicHVycG9zZXMiOnsiZGlzYWJsZWQiOlsiZGV2aWNlX2NoYXJhY3RlcmlzdGljcyIsImdlb2xvY2F0aW9uX2RhdGEiXX0sInZlbmRvcnNfbGkiOnsiZGlzYWJsZWQiOlsiZ29vZ2xlIl19LCJ2ZXJzaW9uIjoyLCJhYyI6IkFBQUEuQUFBQSJ9",
+    "id": 1
+},
+{
+    "domain": ".topsante.com",
+    "expirationDate": 1651431117,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "euconsent-v2",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "CPFezILPFezILAHABBENBXCgAAAAAAAAAAAAAAAAAAAA.YAAAAAAAAAAA",
+    "id": 2
+}
+]

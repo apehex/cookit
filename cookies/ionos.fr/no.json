@@ -1,0 +1,57 @@
+[
+{
+    "domain": ".ionos.fr",
+    "expirationDate": 1651084579,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "PRIVACY_CONSENT",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": "1",
+    "value": "eyJ0ZWNobmljYWwiOnRydWUsInN0YXRpc3RpY3MiOmZhbHNlLCJtYXJrZXRpbmciOmZhbHNlLCJwYXJ0bmVyc2hpcHMiOmZhbHNlfQ==",
+    "id": 1
+},
+{
+    "domain": "www.ionos.fr",
+    "expirationDate": 1622140545,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "bioep_shown",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "1",
+    "value": "true",
+    "id": 2
+},
+{
+    "domain": "www.ionos.fr",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "bioep_shown_session",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": true,
+    "storeId": "1",
+    "value": "true",
+    "id": 3
+},
+{
+    "domain": "www.ionos.fr",
+    "expirationDate": 1619552145.174095,
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "DPX",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "1",
+    "value": "v1:oHVuM7JAug:iyXjGy6g:60886795:gb",
+    "id": 4
+}
+]

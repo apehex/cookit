@@ -1,0 +1,16 @@
+[
+{
+    "domain": "www.offensive-security.com",
+    "expirationDate": 1651345966,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "CookieConsent",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "{stamp:%2765KjXUurYMhW5Xdrr517TXKwSIZtdfk+Qur1RXOD5dH5wG0l6daQSQ==%27%2Cnecessary:true%2Cpreferences:false%2Cstatistics:false%2Cmarketing:false%2Cver:1%2Cutc:1619809966202%2Cregion:%27fr%27}",
+    "id": 1
+}
+]

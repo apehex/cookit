@@ -1,0 +1,16 @@
+[
+{
+    "domain": ".topsante.com",
+    "expirationDate": 1651431048,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "didomi_token",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "eyJ1c2VyX2lkIjoiMTc5MjQxZTctZDA2Zi02OGNiLWE4NTItYzgwNjgzYjE5M2Q5IiwiY3JlYXRlZCI6IjIwMjEtMDQtMzBUMTg6NTA6NDguNTE3WiIsInVwZGF0ZWQiOiIyMDIxLTA0LTMwVDE4OjUwOjQ4LjUxN1oiLCJ2ZXJzaW9uIjpudWxsfQ==",
+    "id": 1
+}
+]
