@@ -1,0 +1,56 @@
+[
+{
+    "domain": ".gouvernement.fr",
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "incap_ses_392_208930",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": true,
+    "storeId": "1",
+    "value": "G3fiC8IyJmZtz0cgR6pwBUyKlWAAAAAAn9i3i6ArWwhxAFqfFTll7g==",
+    "id": 1
+},
+{
+    "domain": ".gouvernement.fr",
+    "expirationDate": 1651893219.685537,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "visid_incap_208930",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "1",
+    "value": "9kePsELAQn2Hi3DIoCFeRUyKlWAAAAAAQUIPAAAAAAC/N+q0eDZIms2W1zzKKFc6",
+    "id": 2
+},
+{
+    "domain": "www.gouvernement.fr",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "has_js",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": true,
+    "storeId": "1",
+    "value": "1",
+    "id": 3
+},
+{
+    "domain": "www.gouvernement.fr",
+    "expirationDate": 1635965046,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "tarteaucitron",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": false,
+    "storeId": "1",
+    "value": "!atinternetcnil=true!doubleclick=false!facebookpixel=false!linkedininsight=false!snapchatpixel=false!twitterpixel=false!atinternethybride=false!googlemaps=false!infogram=false!mapbox=false!spark=false!storify=false!timelinejs=false!wemap=false!facebook=false!instagram=false!twitter=false!twitterembed=false!twittertimeline=false!dailymotion=false!slideshare=false!youtube=false",
+    "id": 4
+}
+]

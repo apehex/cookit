@@ -1,0 +1,16 @@
+[
+{
+    "domain": ".serverfault.com",
+    "expirationDate": 2682374401.124251,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "prov",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "8ff778a2-21ce-cd70-fd57-fcc848930481",
+    "id": 1
+}
+]

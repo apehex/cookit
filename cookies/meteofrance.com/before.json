@@ -1,0 +1,30 @@
+[
+{
+    "domain": ".meteofrance.com",
+    "expirationDate": 1652266489,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "didomi_token",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": false,
+    "session": false,
+    "storeId": "1",
+    "value": "eyJ1c2VyX2lkIjoiMTc5NTVlYTQtZjI4MC02OTZlLWFlYjktOWZhNTU4ZjZlZGY3IiwiY3JlYXRlZCI6IjIwMjEtMDUtMTBUMTA6NTQ6NDkuNzE1WiIsInVwZGF0ZWQiOiIyMDIxLTA1LTEwVDEwOjU0OjQ5LjcxNVoiLCJ2ZXJzaW9uIjpudWxsfQ==",
+    "id": 1
+},
+{
+    "domain": "meteofrance.com",
+    "expirationDate": 1620647689.16583,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "mfsession",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": "1",
+    "value": "rlWwoTSmplV6VzyhqTIlozI0VvjvLJkaVwbvFSZlAGLvYPW0rKNvBvWXI1DvsD.rlWdqTxvBvVjAzRlZQR4BQqvLwD0ZwV3ZJD0MQWyMGZmAGEwZwV0AFVfVzyuqPV6ZGLlZQL0AQN4BU0.zIcYFD2e4lqRDTQjb52PeBMcL1PlALTo3ypiAfDKFjR",
+    "id": 2
+}
+]

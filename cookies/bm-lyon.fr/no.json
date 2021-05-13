@@ -1,0 +1,16 @@
+[
+{
+    "domain": "www.bm-lyon.fr",
+    "expirationDate": 1652426949,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "cb-enabled",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "1",
+    "value": "declined",
+    "id": 1
+}
+]

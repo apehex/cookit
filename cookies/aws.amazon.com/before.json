@@ -1,0 +1,71 @@
+[
+{
+    "domain": ".amazon.com",
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "aws_lang",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": true,
+    "storeId": "1",
+    "value": "fr",
+    "id": 1
+},
+{
+    "domain": ".amazon.com",
+    "expirationDate": 1620371150.234174,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "aws-csds-token",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "1",
+    "value": "eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MjAzNzM4NDgsInZpc2l0b3ItaWQiOiIwOGJjYTJjYi1lOWI3LTRhNTMtOWRjYS0zN2U2OGYxYjY0ODkiLCJpcCI6IjgyLjY1LjQzLjE5In0.h7gxlEHA-ZLLj9kQu5ZWP8GEQWB_sFVRjFF8YVfL5XM",
+    "id": 2
+},
+{
+    "domain": ".amazon.com",
+    "expirationDate": 1654066249,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "aws-target-data",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "1",
+    "value": "%7B%22support%22%3A%221%22%7D",
+    "id": 3
+},
+{
+    "domain": ".amazon.com",
+    "expirationDate": 1651906252,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "regStatus",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "1",
+    "value": "pre-register",
+    "id": 4
+},
+{
+    "domain": ".aws.amazon.com",
+    "expirationDate": 1651906250.234041,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "aws-priv",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "1",
+    "value": "eyJ2IjoxLCJldSI6MSwic3QiOjB9",
+    "id": 5
+}
+]

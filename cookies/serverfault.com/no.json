@@ -1,0 +1,44 @@
+[
+{
+    "domain": ".serverfault.com",
+    "expirationDate": 1651396769,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "OptanonAlertBoxClosed",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "2021-05-01T09:19:29.770Z",
+    "id": 1
+},
+{
+    "domain": ".serverfault.com",
+    "expirationDate": 1651396769,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "OptanonConsent",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "isIABGlobal=false&datestamp=Sat+May+01+2021+11%3A19%3A29+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=6.10.0&hosts=&landingPath=NotLandingPage&groups=C0003%3A0%2CC0004%3A0%2CC0002%3A0%2CC0001%3A1",
+    "id": 2
+},
+{
+    "domain": ".serverfault.com",
+    "expirationDate": 2682374401.124251,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "prov",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "8ff778a2-21ce-cd70-fd57-fcc848930481",
+    "id": 3
+}
+]
