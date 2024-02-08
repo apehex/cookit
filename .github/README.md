@@ -3,86 +3,26 @@
 > :arrow_left: Click-less denying of cookies!
 
 Stop interrupting me to ask the same question over and over!
-NOOOO I don't want to give my data away!
+No one wants to give away their data, there is NO choice to make.
 
-* Free software: MIT
-* Documentation: https://cookit.readthedocs.io.
-
-## Table of Contents
-
-- [Table of Contents](#table-of-contents)
-- [Status](#status)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Development](#development)
-  - [TODO](#todo)
-  - [Community](#community)
-- [Credits](#credits)
-- [License](#license)
-
-## Status
-
-[![Development Status][planning-status-shield]](ROADMAP.md)
-[![Tagged Release][release-shield]](CHANGELOG.md)
-[![Build Coverage][coverage-shield]][coverage-link]
-
-[![Build Status][travis-shield]][travis-link]
-[![Build Status][appveyor-shield]][appveyor-link]
+* Free software: [aGPLv3](LICENSE)
+* Documentation: [![Docs shield][docs-shield] Readthedocs][docs-link]
 
 ## Features
 
-## Requirements
+## Usage
 
 ## Installation
 
-## Usage
-
 ## Development
-
-Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ### TODO
 
-[ ] diff yes / no
-[ ] value formats (regex?)
-[ ] forge cookies
-[ ] what happens when browsing without all the cookies? Do popups appear?
-
-### Community
-
-See [CODE OF CONDUCT](CODE_OF_CONDUCT.md)
-
-## Credits
-
-This project was initially created with [Cookiecutter][cookiecutter] and the custom [cookiecutter-git][cookiecutter-git] :cookie:
+See [TODO](TODO.md).
 
 ## License
 
-See [LICENSE](LICENSE)
+See [LICENSE](LICENSE).
 
-[cookiecutter]: https://github.com/audreyr/cookiecutter
-[cookiecutter-git]: https://github.com/apehex/cookiecutter-git
-
-[appveyor-shield]: https://ci.appveyor.com/api/projects/status/github/apehex/cookit?branch=master&svg=true
-[appveyor-link]: https://ci.appveyor.com/project/apehex/cookit/branch/master
-[coverage-shield]: https://img.shields.io/badge/coverage-0%25-lightgrey.svg?longCache=true
-[coverage-link]: https://codecov.io
 [docs-shield]: https://readthedocs.org/projects/apehex/badge/?version=latest
 [docs-link]: https://cookit.readthedocs.io/en/latest/?badge=latest
-[pypi-shield]: https://img.shields.io/pypi/v/cookit.svg
-[pypi-link]: https://pypi.python.org/pypi/cookit
-[pyup-shield]: https://pyup.io/repos/github/apehex/cookit/shield.svg
-[pyup-link]: https://pyup.io/repos/github/apehex/cookit/
-[release-shield]: https://img.shields.io/badge/release-v0-blue.svg?longCache=true
-[travis-shield]: https://img.shields.io/travis/apehex/cookit.svg
-[travis-link]: https://travis-ci.org/apehex/cookit
-
-[planning-status-shield]: https://img.shields.io/badge/status-planning-lightgrey.svg?longCache=true
-[pre-alpha-status-shield]: https://img.shields.io/badge/status-pre--alpha-red.svg?longCache=true
-[alpha-status-shield]: https://img.shields.io/badge/status-alpha-yellow.svg?longCache=true
-[beta-status-shield]: https://img.shields.io/badge/status-beta-brightgreen.svg?longCache=true
-[stable-status-shield]: https://img.shields.io/badge/status-stable-blue.svg?longCache=true
-[mature-status-shield]: https://img.shields.io/badge/status-mature-8A2BE2.svg?longCache=true
-[inactive-status-shield]: https://img.shields.io/badge/status-inactive-lightgrey.svg?longCache=true
